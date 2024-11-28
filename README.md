@@ -22,13 +22,13 @@ LLM-Oasis comprises multiple datasets, all hosted on Hugging Face, addressing di
 ### Paraphrase Generation
 
 - <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20"> [Babelscape/LLM-Oasis_paraphrase_generation](https://huggingface.co/Babelscape/LLM-Oasis_paraphrase_generation)
-  - Contains factual texts generated from extracted claims.
+  - Contains the factual texts, i.e., the paraphrases, generated from the extracted claims.
   - Refer to Section 3.3 of the paper for more details.
 
 ### Unfactual Text Generation
 
 - <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20"> [Babelscape/LLM-Oasis_unfactual_text_generation](https://huggingface.co/Babelscape/LLM-Oasis_unfactual_text_generation)
-  - Includes non-factual texts generated from falsified claims and paraphrases.
+  - Includes the non-factual texts generated from the set of extracted claims, including the falsified one.
 
 ### Gold Benchmark
 

@@ -10,39 +10,39 @@ LLM-Oasis comprises multiple datasets, all hosted on Hugging Face, addressing di
 
 ### Claim Extraction
 
-- **[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Dataset-orange)](https://huggingface.co/Babelscape/LLM-Oasis_claim_extraction) Babelscape/LLM-Oasis_claim_extraction**
+- *<img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20"> [https://huggingface.co/Babelscape/LLM-Oasis_claim_extraction](Babelscape/LLM-Oasis_claim_extraction) 
   - Contains text-claim pairs used to train the claim extraction system.
   - Refer to Section 3.1 of the paper for more details.
 
 ### Claim Falsification
 
-- **[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Dataset-orange)](https://huggingface.co/Babelscape/LLM-Oasis_claim_falsification) Babelscape/LLM-Oasis_claim_falsification**
+- **<img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20"> [Babelscape/LLM-Oasis_claim_falsification](https://huggingface.co/Babelscape/LLM-Oasis_claim_falsification)**
   - Includes the outcome of the claim falsification process.
   - Refer to Section 3.2 of the paper for more details.
 
 ### Paraphrase Generation
 
-- **[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Dataset-orange)](https://huggingface.co/Babelscape/LLM-Oasis_paraphrase_generation) Babelscape/LLM-Oasis_paraphrase_generation**
+- *<img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20">](https://huggingface.co/Babelscape/LLM-Oasis_paraphrase_generation) Babelscape/LLM-Oasis_paraphrase_generation**
   - Contains factual texts generated from extracted claims.
   - Refer to Section 3.3 of the paper for more details.
 
 ### Unfactual Text Generation
 
-- **[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Dataset-orange)](https://huggingface.co/Babelscape/LLM-Oasis_unfactual_text_generation) Babelscape/LLM-Oasis_unfactual_text_generation**
+- **[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Dataset-orange)](Babelscape/LLM-Oasis_unfactual_text_generation) Babelscape/LLM-Oasis_unfactual_text_generation**
   - Includes non-factual texts generated from falsified claims and paraphrases.
 
 ### Gold Datasets for Manual Annotations
 
 #### Task 1: End-to-End Factuality Evaluation
 
-- **[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Dataset-orange)](https://huggingface.co/Babelscape/LLM-Oasis_e2e_factuality_evaluation) Babelscape/LLM-Oasis_e2e_factuality_evaluation**
+- **[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Dataset-orange)](Babelscape/LLM-Oasis_e2e_factuality_evaluation) Babelscape/LLM-Oasis_e2e_factuality_evaluation**
   - Contains data for assessing the factuality of raw texts in natural language.
   - Labels for blind evaluation have been removed.
   - Refer to Section 4.2 of the paper for more details.
 
 #### Task 2: Evidence-Based Claim Verification
 
-- **[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Dataset-orange)](https://huggingface.co/Babelscape/LLM-Oasis_claim_verification) Babelscape/LLM-Oasis_claim_verification**
+- **[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Dataset-orange)](Babelscape/LLM-Oasis_claim_verification) Babelscape/LLM-Oasis_claim_verification**
   - Contains data for verifying the veracity of a single claim against evidence from Wikipedia.
   - Labels for blind evaluation have been removed.
   - Refer to Section 4.2 of the paper for more details.

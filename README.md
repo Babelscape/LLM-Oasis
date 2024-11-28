@@ -1,6 +1,6 @@
 # LLM-OASIS
 
-![LLM-Oasis Overview](https://github.com/Babelscape/LLM-Oasis/blob/main/llm-oasis2.pdf)
+![LLM-Oasis Overview](https://github.com/Babelscape/LLM-Oasis/blob/main/llm-oasis.png)
 
 LLM-Oasis is a comprehensive resource designed for end-to-end factuality evaluation of Large Language Models (LLMs). It provides datasets to support tasks such as claim extraction, claim falsification, and factuality assessment of texts, enabling advancements in factual accuracy for generative AI systems. For more details, refer to the [paper](#).
 

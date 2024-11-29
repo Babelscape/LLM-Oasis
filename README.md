@@ -1,4 +1,12 @@
 # Truth or Mirage?<br>Towards End-to-End Factuality Evaluation with LLM-OASIS
+
+[![Paper](http://img.shields.io/badge/ArXiv-B31B1B.svg)](https://aclanthology.org/2024.findings-acl.841.pdf)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+<div align='center'>
+  <img src="https://github.com/Babelscape/FENICE/blob/master/Sapienza_Babelscape.png?raw=True" height="70">
+</div>
+
 ![LLM-Oasis Overview](https://github.com/Babelscape/LLM-Oasis/blob/main/llm-oasis.png)
 
 LLM-Oasis is a comprehensive resource designed for end-to-end factuality evaluation of Large Language Models (LLMs). It provides datasets to support tasks such as claim extraction, claim falsification, and factuality assessment of texts, enabling advancements in factual accuracy for generative AI systems. For more details, refer to the [paper](#).

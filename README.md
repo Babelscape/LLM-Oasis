@@ -17,39 +17,39 @@ LLM-Oasis comprises multiple datasets, all hosted on Hugging Face, addressing di
 
 ### Claim Extraction
 
-- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20"> [Babelscape/LLM-Oasis_claim_extraction](https://huggingface.co/Babelscape/LLM-Oasis_claim_extraction) 
+- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20"> [Babelscape/LLM-Oasis_claim_extraction](https://huggingface.co/datasets/Babelscape/LLM-Oasis_claim_extraction) 
   - Contains the text-claims pairs used to train the claim extraction system.
   - Refer to Section 3.1 of the paper for more details.
 
 ### Claim Falsification
 
-- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20"> [Babelscape/LLM-Oasis_claim_falsification](https://huggingface.co/Babelscape/LLM-Oasis_claim_falsification)
+- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20"> [Babelscape/LLM-Oasis_claim_falsification](https://huggingface.co/datasets/Babelscape/LLM-Oasis_claim_falsification)
   - Includes the outcome of the claim falsification process.
   - Refer to Section 3.2 of the paper for more details.
 
 ### Paraphrase Generation
 
-- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20"> [Babelscape/LLM-Oasis_paraphrase_generation](https://huggingface.co/Babelscape/LLM-Oasis_paraphrase_generation)
+- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20"> [Babelscape/LLM-Oasis_paraphrase_generation](https://huggingface.co/datasets/Babelscape/LLM-Oasis_paraphrase_generation)
   - Contains the factual texts, i.e., the paraphrases, generated from the extracted claims.
   - Refer to Section 3.3 of the paper for more details.
 
 ### Unfactual Text Generation
 
-- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20"> [Babelscape/LLM-Oasis_unfactual_text_generation](https://huggingface.co/Babelscape/LLM-Oasis_unfactual_text_generation)
+- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20"> [Babelscape/LLM-Oasis_unfactual_text_generation](https://huggingface.co/datasets/Babelscape/LLM-Oasis_unfactual_text_generation)
   - Includes the non-factual texts generated from the set of extracted claims, including the falsified one.
 
 ### Gold Benchmark
 
 #### Task 1: End-to-End Factuality Evaluation
 
-- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20"> [Babelscape/LLM-Oasis_e2e_factuality_evaluation](https://huggingface.co/Babelscape/LLM-Oasis_e2e_factuality_evaluation)
+- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20"> [Babelscape/LLM-Oasis_e2e_factuality_evaluation](https://huggingface.co/datasets/Babelscape/LLM-Oasis_e2e_factuality_evaluation)
   - Contains data for assessing the factuality of raw texts in natural language.
   - Labels have been removed for blind evaluation.
   - Refer to Section 4.2 of the paper for more details.
 
 #### Task 2: Evidence-Based Claim Verification
 
-- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20"> [Babelscape/LLM-Oasis_claim_verification](https://huggingface.co/Babelscape/LLM-Oasis_claim_verification)
+- <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20"> [Babelscape/LLM-Oasis_claim_verification](https://huggingface.co/datasets/Babelscape/LLM-Oasis_claim_verification)
   - Contains data for verifying the veracity of a single claim against evidence from Wikipedia.
   - Labels have been removed for blind evaluation.
   - Refer to Section 4.2 of the paper for more details.

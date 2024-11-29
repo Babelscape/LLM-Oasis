@@ -54,6 +54,10 @@ LLM-Oasis comprises multiple datasets, all hosted on Hugging Face, addressing di
   - Labels have been removed for blind evaluation.
   - Refer to Section 4.2 of the paper for more details.
 
+## License
+This work is under the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+
 ## Citation
 
 If you use LLM-Oasis in your work, please cite our paper:

@@ -19,7 +19,7 @@ of the original one, and its **unfactual counterpart**, featuring the falsified 
 
 ## Datasets
 
-LLM-Oasis comprises multiple datasets, all hosted on Hugging Face, addressing different stages of the pipeline as described in the paper:
+LLM-Oasis comprises multiple datasets, all hosted on Hugging Face, addressing different stages of the pipeline as described in the [paper](https://arxiv.org/abs/2411.19655):
 
 ### Claim Extraction
 

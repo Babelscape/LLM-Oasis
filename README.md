@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Truth or Mirage?<br>Towards End-to-End Factuality Evaluation with LLM-Oasis
+# Truth or Mirage?<br>Towards End-to-End Factuality Evaluation <br> with LLM-Oasis
 
 [![Paper](http://img.shields.io/badge/ArXiv-B31B1B.svg)](https://arxiv.org/abs/2411.19655)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)

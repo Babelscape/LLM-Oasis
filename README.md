@@ -9,6 +9,7 @@
 
 ![LLM-Oasis Overview](https://github.com/Babelscape/LLM-Oasis/blob/main/llm-oasis.png)
 
+This repository contains the resource introduced in the paper: ["Truth or Mirage? Towards End-to-End Factuality Evaluation with LLM-Oasis"](https://arxiv.org/abs/2411.19655).
 **LLM-Oasis** is a large-scale resource for end-to-end factuality evaluation
 obtained by extracting and falsifying information from Wikipedia. 
 Specifically, given a text from Wikipedia, we extract a set of factual and unfactual claims, with

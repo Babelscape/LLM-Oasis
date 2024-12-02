@@ -103,7 +103,7 @@ If you use LLM-Oasis in your work, please cite our paper:
 
 ```
 @misc{scirè2024truthmirageendtoendfactuality,
-      title={Truth or Mirage? Towards End-to-End Factuality Evaluation with LLM-OASIS}, 
+      title={Truth or Mirage? Towards End-to-End Factuality Evaluation with LLM-Oasis}, 
       author={Alessandro Scirè and Andrei Stefan Bejgu and Simone Tedeschi and Karim Ghonim and Federico Martelli and Roberto Navigli},
       year={2024},
       eprint={2411.19655},

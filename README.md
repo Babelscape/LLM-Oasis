@@ -56,7 +56,7 @@ LLM-Oasis comprises multiple datasets, all hosted on Hugging Face, addressing di
 
 #### 🚨 Evaluate your LLM 🚨
 Do you want to evaluate your LLM as an end-to-end factuality evaluator on our gold benchmark?
-Submit your predictions here: [Submission form]()
+Submit your predictions here: [Submission form](https://docs.google.com/forms/d/111sD6sMXm85F-iSCHhE868-6QlEE6S-xhePJawZ1OPA/)
 
 Upload a .jsonl whose entries are formatted like this:
 ```
@@ -78,7 +78,7 @@ Upload a .jsonl whose entries are formatted like this:
 #### 🚨 Evaluate your LLM 🚨
 Do you want to evaluate your LLM for claim verification on our gold benchmark??
 
-Submit your predictions here: [Submission form]()
+Submit your predictions here: [Submission form](https://docs.google.com/forms/d/111sD6sMXm85F-iSCHhE868-6QlEE6S-xhePJawZ1OPA/)
 
 Upload a .jsonl whose entries are formatted like this:
 ```

@@ -54,17 +54,17 @@ LLM-Oasis comprises multiple datasets, all hosted on Hugging Face, addressing di
   - Labels have been removed for blind evaluation.
   - Refer to Section 4.2 of the paper for more details.
 
+##### 🚨 Evaluate your LLM 🚨
 Do you want to evaluate your LLM as an end-to-end factuality evaluator?
-
 Submit your predictions here: [Submission form]()
 
 Upload a .jsonl whose entries are formatted like this:
-'''
+```
 {
-  'id': str # matching the 'id' value in [Babelscape/LLM-Oasis_e2e_factuality_evaluation](https://huggingface.co/datasets/Babelscape/LLM-Oasis_e2e_factuality_evaluation),
+  'id': str # matching the 'id' value in Babelscape/LLM-Oasis_e2e_factuality_evaluation;
   'factual': bool # where True indicates that the text is factual, False, conversely.
 }
-'''
+```
 
 
 
@@ -75,17 +75,18 @@ Upload a .jsonl whose entries are formatted like this:
   - Labels have been removed for blind evaluation.
   - Refer to Section 4.2 of the paper for more details.
 
+##### 🚨 Evaluate your LLM 🚨
 Do you want to evaluate your LLM for claim verification?
 
 Submit your predictions here: [Submission form]()
 
 Upload a .jsonl whose entries are formatted like this:
-'''
+```
 {
-  'id': str # matching the 'id' value in [Babelscape/LLM-Oasis_claim_verification](https://huggingface.co/datasets/Babelscape/LLM-Oasis_claim_verification),
+  'id': str # matching the 'id' value in Babelscape/LLM-Oasis_claim_verification;
   'factual': bool # where True indicates that the claim is factual, False, conversely.
 }
-'''
+```
 
 
 ## License

@@ -54,9 +54,12 @@ This work is under the [Attribution-NonCommercial-ShareAlike 4.0 International (
 If you use LLM-Oasis in your work, please cite our paper:
 
 ```
-@misc{llm-oasis,
-  author = {Authors},
-  title = {LLM-Oasis: A Resource for End-to-End Factuality Evaluation},
-  year = {2024},
-  url = {#}
+@misc{scirè2024truthmirageendtoendfactuality,
+      title={Truth or Mirage? Towards End-to-End Factuality Evaluation with LLM-OASIS}, 
+      author={Alessandro Scirè and Andrei Stefan Bejgu and Simone Tedeschi and Karim Ghonim and Federico Martelli and Roberto Navigli},
+      year={2024},
+      eprint={2411.19655},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2411.19655}, 
 }

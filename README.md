@@ -45,17 +45,17 @@ LLM-Oasis comprises multiple datasets, all hosted on Hugging Face, addressing di
 - <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20"> [Babelscape/LLM-Oasis_unfactual_text_generation](https://huggingface.co/datasets/Babelscape/LLM-Oasis_unfactual_text_generation)
   - Includes the non-factual texts generated from the set of extracted claims, including the falsified one.
 
-### Gold Benchmark
+## Gold Benchmark
 
-#### Task 1: End-to-End Factuality Evaluation
+### Task 1: End-to-End Factuality Evaluation
 
 - <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20"> [Babelscape/LLM-Oasis_e2e_factuality_evaluation](https://huggingface.co/datasets/Babelscape/LLM-Oasis_e2e_factuality_evaluation)
   - Contains data for assessing the factuality of raw texts in natural language.
   - Labels have been removed for blind evaluation.
   - Refer to Section 4.2 of the paper for more details.
 
-##### 🚨 Evaluate your LLM 🚨
-Do you want to evaluate your LLM as an end-to-end factuality evaluator?
+#### 🚨 Evaluate your LLM 🚨
+Do you want to evaluate your LLM as an end-to-end factuality evaluator on our gold benchmark?
 Submit your predictions here: [Submission form]()
 
 Upload a .jsonl whose entries are formatted like this:
@@ -68,15 +68,15 @@ Upload a .jsonl whose entries are formatted like this:
 
 
 
-#### Task 2: Evidence-Based Claim Verification
+### Task 2: Evidence-Based Claim Verification
 
 - <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="20" height="20"> [Babelscape/LLM-Oasis_claim_verification](https://huggingface.co/datasets/Babelscape/LLM-Oasis_claim_verification)
   - Contains data for verifying the veracity of a single claim against evidence from Wikipedia.
   - Labels have been removed for blind evaluation.
   - Refer to Section 4.2 of the paper for more details.
 
-##### 🚨 Evaluate your LLM 🚨
-Do you want to evaluate your LLM for claim verification?
+#### 🚨 Evaluate your LLM 🚨
+Do you want to evaluate your LLM for claim verification on our gold benchmark??
 
 Submit your predictions here: [Submission form]()
 

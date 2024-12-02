@@ -1,9 +1,13 @@
+
+<div align="center">
+
 # Truth or Mirage?<br>Towards End-to-End Factuality Evaluation with LLM-Oasis
 
 [![Paper](http://img.shields.io/badge/ArXiv-B31B1B.svg)](https://arxiv.org/abs/2411.19655)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Hugging Face Collection](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FCD21D)](https://huggingface.co/collections/Babelscape/llm-oasis-674db6e4ff329619b8ed6b82)
 
-<div align='center'>
+
   <img src="https://github.com/Babelscape/FENICE/blob/master/Sapienza_Babelscape.png?raw=True" height="70">
 </div>
 

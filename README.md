@@ -79,18 +79,6 @@ Upload a .jsonl whose entries are formatted like this:
   - Labels have been removed for blind evaluation.
   - Refer to Section 4.2 of the paper for more details.
 
-#### 🚨 Evaluate your LLM 🚨
-Do you want to evaluate your LLM for claim verification on our gold benchmark??
-
-Submit your predictions here: [Submission form](https://docs.google.com/forms/d/111sD6sMXm85F-iSCHhE868-6QlEE6S-xhePJawZ1OPA/)
-
-Upload a .jsonl whose entries are formatted like this:
-```
-{
-  'id': str # matching the 'id' value in Babelscape/LLM-Oasis_claim_verification;
-  'factual': bool # where True indicates that the claim is factual, False, conversely.
-}
-```
 
 
 ## License
